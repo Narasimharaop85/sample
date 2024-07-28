@@ -29,6 +29,6 @@ jobs:
 
     steps:
     - name: print sample name
-      run: ech "hello world"
+      run: echo "hello world"
 
    
